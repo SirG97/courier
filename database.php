@@ -3,9 +3,9 @@
 
 // database connection config
 $dbHost = 'localhost';
-$dbUser = 'root';
-$dbPass = '';
-$dbName = 'courier_db';
+$dbUser = 'glcsgllk_frank';
+$dbPass = 'rrwcscrz1';
+$dbName = 'glcsgllk_courier';
 
 $dbConn = mysqli_connect($dbHost, $dbUser, $dbPass,$dbName) or die ('mysqli connect failed. ' . mysqli_error());
 //mysqli_select_db() or die('Cannot select database. ' . mysqli_error());
